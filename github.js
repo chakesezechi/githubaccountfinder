@@ -1,7 +1,7 @@
 class GitHub {
   constructor(){
     this.client_id = '40dc98ece91bdc8acba7';
-    this.client_secret = '489fa0fe3f91812eba99c6619ec154123e7c2444';
+    this.client_secret = '6db503e476ada9ed6b26a3fc7167d263f543c20e';
   }
 
   async getUser(user){
@@ -9,7 +9,7 @@ class GitHub {
 
     const profile = await profileResponse.json()
 
-    
+
     return {
       profile
     }
