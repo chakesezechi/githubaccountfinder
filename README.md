@@ -1,2 +1,2 @@
 # githubaccountfinder
-Built this using HTML, CSS, Bootswatch and Vanilla JS
+Built this using HTML, CSS, Bootswatch, Vanilla JS and GitHub API
